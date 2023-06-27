@@ -9,7 +9,7 @@ I live in Ontario. I like art and coding. Front End Web Developer.
 
 ### My Favorite Project Repos
 * <a href="https://github.com/khyleB/SH0RT_C1RCU1T">SH0RT_CIRCUIT</a> - Browser-based cyberpunk solitaire
-* <a href="https://github.com/khyleB/space-meanies">Space Meanies</a> - Shmup made in python, made playable in browser with pygbag!
+* <a href="https://github.com/khyleB/space-meanies">Space Meanies</a> - Space Invaders variant made in python, made playable in browser with pygbag!
 
 <!--
 **khyleB/khyleB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
