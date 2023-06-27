@@ -2,7 +2,7 @@
 I live in Ontario. I like art and coding. Front End Web Developer.
 
 ### Get In Touch
-<a href="http://kbest.ca"><img src="https://img.shields.io/badge/portfolio-97BD00?style=for-the-badge&logo=dev.to&logoColor=white"></a> <a href="https://www.linkedin.com/in/khyle-best-933120226/"><img src="https://img.shields.io/badge/LinkedIn-53B0DF?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw">
+<a href="http://kbest.ca"><img src="https://img.shields.io/badge/portfolio-97BD00?style=for-the-badge&logo=dev.to&logoColor=white"></a> <a href="www.linkedin.com/in/khyle-best-933120226"><img src="https://img.shields.io/badge/LinkedIn-53B0DF?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw">
 
 ### What I Work With
 <img src="https://img.shields.io/badge/jQuery-ff38ac?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-b61aff?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-881aff?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-4242ff?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Git-4287ff?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/cPanel-53B0DF?style=for-the-badge&logo=godaddy&logoColor=white"> <img src="https://img.shields.io/badge/Wordpress-97BD00?style=for-the-badge&logo=wordpress&logoColor=white">
