@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Khyle! 
-I live in the GTA, and I've spent years here during my career as a freelance designer. I love everything to do with art and coding. Front-end web developer 👨‍💻 with a bonus passion for web design!
+I live in the GTA. I love everything to do with art and coding. Front-end web developer 👨‍💻 with a bonus passion for web design!
 
 ### Get In Touch
 <a href="http://kbest.ca"><img src="https://img.shields.io/badge/portfolio-97BD00?style=for-the-badge&logo=dev.to&logoColor=white"></a> <a href="https://www.linkedin.com/in/lindsey-k-best-933120226"><img src="https://img.shields.io/badge/LinkedIn-53B0DF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
