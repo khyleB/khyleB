@@ -1,4 +1,4 @@
-## Hi 👋, I'm Khyle! 
+## Hi 👋, I'm Lindsey K.! 
 I live in the GTA. I love everything to do with art and coding. Front-end web developer 👨‍💻 with a bonus passion for web design!
 
 ### Get In Touch
